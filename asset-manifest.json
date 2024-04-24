@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/frontend-pokeapi/static/css/main.ff02f4b5.css",
-    "main.js": "/frontend-pokeapi/static/js/main.8a2ad171.js",
+    "main.js": "/frontend-pokeapi/static/js/main.dbcceba4.js",
     "static/js/453.93b75475.chunk.js": "/frontend-pokeapi/static/js/453.93b75475.chunk.js",
     "static/media/pokemon-23.svg": "/frontend-pokeapi/static/media/pokemon-23.17b2d8c1482f004467895f547c5a57f7.svg",
     "index.html": "/frontend-pokeapi/index.html",
     "main.ff02f4b5.css.map": "/frontend-pokeapi/static/css/main.ff02f4b5.css.map",
-    "main.8a2ad171.js.map": "/frontend-pokeapi/static/js/main.8a2ad171.js.map",
+    "main.dbcceba4.js.map": "/frontend-pokeapi/static/js/main.dbcceba4.js.map",
     "453.93b75475.chunk.js.map": "/frontend-pokeapi/static/js/453.93b75475.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.8a2ad171.js"
+    "static/js/main.dbcceba4.js"
   ]
 }
