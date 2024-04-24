@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
 	return (
 		<div>
-			<p>Esto es el footer</p>
+			<p className="text-white">Elaborado por Javier Damiani</p>
 		</div>
 	);
 }
